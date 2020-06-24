@@ -1,0 +1,22 @@
+{
+  "name": "api-module",
+  "version": "1.0.0",
+  "description": "A framework-agnostic API module written in TypeScript",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "module",
+    "TypeScript"
+  ],
+  "author": "Harry Bendix-Lewis",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}
