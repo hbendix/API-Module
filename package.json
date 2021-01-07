@@ -14,7 +14,7 @@
   "author": "Harry Bendix-Lewis",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "typescript": "^3.9.5"
